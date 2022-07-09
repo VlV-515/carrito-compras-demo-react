@@ -1,0 +1,11 @@
+.producto {
+  border: 1px solid #eee;
+  box-shadow: 0px 5px 5px rgb(0, 0, 0, 0.1);
+  width: 30%;
+  padding: 10px 15px;
+  border-radius: 5px;
+}
+
+.imagen{
+  width: 100%;
+}
